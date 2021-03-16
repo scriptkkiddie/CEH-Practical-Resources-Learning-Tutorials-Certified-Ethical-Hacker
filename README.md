@@ -5,6 +5,19 @@ Create Your Own Lab
 
 ## LAB Setup
 
+### Prerequisites 
+
+ISO
+- Windows 10 
+- Windows Server 2016
+- Windows Server 2019
+- Parrot OS / Kali Linux
+- Ubuntu
+- Android 9
+
+Virtualization Tool
+- Oracle VM Virtual Box
+
 ## Contents
 - Virtual Lab #1 - Introduction
 - Virtual Lab #2 - Footprinting and Reconnaissance
