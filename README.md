@@ -9,6 +9,7 @@ Create Your Own Lab
 
 ISO
 - Windows 10 
+  https://developer.microsoft.com/en-us/microsoft-edge/tools/vms
 - Windows Server 2016
 - Windows Server 2019
 - Parrot OS / Kali Linux
