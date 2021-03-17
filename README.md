@@ -8,8 +8,7 @@ Create Your Own Lab
 ### Prerequisites 
 
 ISO
-- Windows 10 
-  https://developer.microsoft.com/en-us/microsoft-edge/tools/vms
+- [Windows 10](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms)
 - Windows Server 2016
 - Windows Server 2019
 - Parrot OS / Kali Linux
@@ -17,8 +16,7 @@ ISO
 - Android 9
 
 Virtualization Tool
-- Oracle VM Virtual Box
-https://www.virtualbox.org/wiki/Downloads
+- [Oracle VM Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
 ## Contents
 - Virtual Lab #1 - Introduction
