@@ -39,3 +39,9 @@ Create Your Own Lab
 - Virtual Lab #18 - IoT and OT Hacking
 - Virtual Lab #19 - Cloud Computing
 - Virtual Lab #20 - Cryptography
+
+# Extra(s)
+
+## Blog(s)/Article(s)
+
+## Reddit(s)
