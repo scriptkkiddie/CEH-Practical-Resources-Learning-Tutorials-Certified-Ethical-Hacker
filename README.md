@@ -40,8 +40,8 @@ Create Your Own Lab
 - Virtual Lab #19 - Cloud Computing
 - Virtual Lab #20 - Cryptography
 
-# Extra(s)
+## _Extra(s)_
 
-## Blog(s)/Article(s)
+### Blog(s)/Article(s)
 
-## Reddit(s)
+### Reddit(s)
