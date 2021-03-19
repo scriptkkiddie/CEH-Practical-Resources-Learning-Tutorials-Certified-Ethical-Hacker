@@ -46,7 +46,7 @@ Create Your Own Lab
 
 ### Reviews
 
-https://www.linkedin.com/pulse/my-jouney-ceh-practical-joas-antonio-dos-santos (My Review)
+https://www.linkedin.com/pulse/my-jouney-ceh-practical-joas-antonio-dos-santos
 
 https://forums.itpro.tv/topic/2604/ceh-practical/2
 
